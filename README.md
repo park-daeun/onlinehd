@@ -86,7 +86,7 @@ It learn the **MNIST dataset** which is pulled from scikit-learn
 dataset: ISOLET https://archive.ics.uci.edu/ml/datasets/isolet
 <br>(This data set was generated as follows. 150 subjects spoke the name of each letter of the alphabet twice. Hence, we have 52 training examples from each speaker. The speakers are grouped into sets of 30 speakers each, and are referred to as isolet1, isolet2, isolet3, isolet4, and isolet5. The data appears in isolet1+2+3+4.data in sequential order, first the speakers from isolet1, then isolet2, and so on. The test set, isolet5, is a separate file.)
 <br>
-#### result : [click](https://github.com/park-daeun/onlinehd/ISOLET/result/hyperparameters.csv)
+#### result : [click](https://github.com/park-daeun/onlinehd/blob/main/ISOLET/result/hyperparameters.csv)
 
 <br>
 <br>
