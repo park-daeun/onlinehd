@@ -1,5 +1,5 @@
 # onlinehd
-> UCI(University of California, Irvine) GREAT Program Project about Hyperdymensional Computing
+> UCI(University of California, Irvine) GREAT Program Project about Hyperdimensional Computing
 
 <br>
 
